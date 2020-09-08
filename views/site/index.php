@@ -54,8 +54,7 @@
                         <textarea class="form-control form-comment" style="height: 135px" name="comment"></textarea>
                     </div>
                     <div class="text-right col-6">
-<!--                        <input type="submit" name="submit" class="btn btn-primary form-btn" value="Отправить">-->
-                        <input class="btn btn-success" type="submit" name="submit" value="Сохранить">
+                        <input class="btn btn-success form-btn" type="submit" name="submit" value="Сохранить">
                     </div>
                 </form>
             </div>
